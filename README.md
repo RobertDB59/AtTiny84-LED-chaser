@@ -8,5 +8,5 @@ Another led blinking sketch
    Since mine is switched from the handlebar this was not an option for my use.
    It contained five different patterns, all leds steady on, all leds flashing, leds chasing
    from left to right, leds chasing from right to left and a sort of chasing, left and right half simulaneously,
-   in "optical" circels.
+   in "optical" circles.
    I needed only one pattern, so I re-created the last pattern
